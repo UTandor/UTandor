@@ -4,12 +4,6 @@
 
 I'm Usman Tanveer, a high school senior and a programmer with over 2 years of experience. I work with MongoDB, Express.js, React.js, and Node.js, and I'm really good with JavaScript. I create great-looking and fast user interfaces. I've been contributing to open-source projects for several months, building stuff and making connections. I'm good at meeting deadlines and delivering quality work on time.
 
-   <p align="left">
-     [<img alt="working hours"  title="My Working Hours" src="https://custom-icon-badges.demolab.com/badge/2+ Years?logo=clock&logoColor=white"/>
-     
-      
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
