@@ -41,8 +41,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Usman Tanveer's GitHub stats]([https://github-readme-stats.vercel.app/api?username=UTandor&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=UTandor&show_icons=true&theme=gruvbox&hide=stars&hide_rank=true&custom_title=Usman%20Tanveer&layout=normal))
-![Usman Tanveer's GitHub stats]([https://github-readme-stats.vercel.app/api?username=UTandor&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=UTandor&show_icons=true&theme=gruvbox&hide=stars&hide_rank=true&custom_title=Usman%20Tanveer&layout=normal))
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UTandor&show_icons=true&theme=gruvbox&hide=stars&hide_rank=true&custom_title=Usman%20Tanveer&layout=normal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
