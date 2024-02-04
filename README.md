@@ -1,10 +1,23 @@
 # Usman Tanveer
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Full Stack MERN Developer(Website and API developer)`**
 
 I'm Usman Tanveer, a high school senior and a programmer with over 2 years of experience. I work with MongoDB, Express.js, React.js, and Node.js, and I'm really good with JavaScript. I create great-looking and fast user interfaces. I've been contributing to open-source projects for several months, building stuff and making connections. I'm good at meeting deadlines and delivering quality work on time.
 
 ---
+
+### My Works
+
+1. [Robo Lens](https://robolens.netlify.app): An image captioning website 🤖
+
+2. [VTok](https://vtok.netlify.app): A realtime chatting platform with authentication. 💬
+
+3. [Usmanoogle](https://usmanoogle.netlify.app): Simple search engine similar to google using external APIs. 🌐
+
+4. [AgriPakAI](https://agripakai.netlify.app): Multi lingual voice supported chat for local farmers. 🥕
+
+5. [Gravity Simulation(Javascript)](https://gravsim.netlify.app): A gravity simulation made in javascript. 🌕
+
 
 ### 🧰 Languages and Tools
 
