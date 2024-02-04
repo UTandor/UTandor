@@ -44,7 +44,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UTandor&show_icons=true&theme=dracula&hide=stars&custom_title=Usman%20Tanveer&rank_icon=github" alt="GitHub Stats" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTandor&hide=css&langs_count=5&layout=normal&theme=dracula" alt="Top Langs" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTandor&hide=css&langs_count=5&layout=donut&theme=dracula" alt="Top Langs" height="160px">
   <img src="https://streak-stats.demolab.com?user=UTandor&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" height="160px">
 </div>
 
