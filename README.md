@@ -5,11 +5,8 @@
 I'm Usman Tanveer, a high school senior and a programmer with over 2 years of experience. I work with MongoDB, Express.js, React.js, and Node.js, and I'm really good with JavaScript. I create great-looking and fast user interfaces. I've been contributing to open-source projects for several months, building stuff and making connections. I'm good at meeting deadlines and delivering quality work on time.
 
    <p align="left">
-     <img alt="working hours" title="My working hours" src="https://custom-icon-badges.demolab.com/2?color=%23E05D44&label=Working Years&logo=clock&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+     [<img alt="working hours" title="My working hours" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white"/>
+     
       
    </p>
 
