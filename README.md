@@ -1,6 +1,6 @@
 # Usman Tanveer
 
-**`Full Stack MERN Developer (Website and API developer)`**
+**`Full Stack Developer (Website and API developer)`**
 
 I'm Usman Tanveer, a web developer and programmer with over 2 years of experience. I work with MongoDB, Express.js, React.js, and Node.js, and I have experience  with TypeScript as well. I create great-looking and fast user interfaces. I've been contributing to open-source projects for several months, building stuff and making connections. I'm good at meeting deadlines and delivering quality work on time.
 
